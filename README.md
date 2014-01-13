@@ -1,4 +1,4 @@
 icade-joy
 =========
 
-userspace input driver for ION iCade Core
+icade-joy - userspace input driver for ION iCade Core
